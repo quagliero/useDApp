@@ -3,4 +3,4 @@
 "@usedapp/testing": patch
 ---
 
-Add setConfig
+Add useSetConfig
